@@ -103,3 +103,13 @@ Through this experience, I continue to strengthen my ability to:
 - Improve my communication, coordination, and organizational skills while working with diverse teams.
 
 Supporting Project Management alongside Service Desk operations gives me exposure to both the technical and business sides of IT. While my Service Desk responsibilities strengthen my troubleshooting, incident management, and analytical thinking, Project Management enhances my planning, coordination, communication, and stakeholder management skills. Together, these experiences provide a strong foundation for building a long-term career in Information Technology.
+
+# My Cybersecurity Journey
+
+As I continue to build my career in Information Technology, I am expanding my knowledge in networking and cybersecurity to develop a strong technical foundation for security operations.
+
+Completing the **CompTIA Network+** certification strengthened my understanding of networking fundamentals and helped me connect theoretical concepts with real-world enterprise environments. It also enhanced my ability to understand the technologies that underpin modern IT infrastructure.
+
+I am currently preparing for the **CompTIA Security+** certification to build a solid understanding of cybersecurity principles, including threat management, identity and access management, network security, risk management, cryptography, and incident response.
+
+My goal is to combine my experience in IT operations and project coordination with strong networking and cybersecurity knowledge to build a successful career as a Security Operations Center (SOC) Analyst. Through continuous learning, hands-on labs, and practical projects, I am committed to developing the skills required to protect modern enterprise environments.
