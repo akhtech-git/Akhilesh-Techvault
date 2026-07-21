@@ -87,3 +87,19 @@ There are several lessons I learned through my experience and still continue to 
 - I sometimes underestimated the importance of reviewing past documentation and Incident tickets before beginning troubleshooting.
 - I learned that making assumptions without gathering sufficient information often increases troubleshooting time.
 - I also realized that accurate ticket updates and documentation are just as important as resolving the issue itself, as they help both colleagues and future investigations.
+
+# Project Management & Coordination
+
+Alongside my responsibilities in Service Desk operations, I also support my reporting manager with project management activities, which has given me valuable insight into how technical execution aligns with business objectives.
+
+Working in this role helps me understand that successful project delivery goes beyond completing technical tasks. It requires careful planning, effective communication, stakeholder coordination, team cordination, and continuous tracking to keep our project moving in the right direction.
+
+Through this experience, I continue to strengthen my ability to:
+
+- Coordinate with cross-functional teams to ensure Service desk activities are completed on time.
+- Track various Incident progress, monitor action items, and share regular status updates with stakeholders.
+- Identify project risks, dependencies, and potential roadblocks while supporting mitigation efforts.
+- Balance operational responsibilities with project commitments by prioritizing tasks based on business requirements.
+- Improve my communication, coordination, and organizational skills while working with diverse teams.
+
+Supporting Project Management alongside Service Desk operations gives me exposure to both the technical and business sides of IT. While my Service Desk responsibilities strengthen my troubleshooting, incident management, and analytical thinking, Project Management enhances my planning, coordination, communication, and stakeholder management skills. Together, these experiences provide a strong foundation for building a long-term career in Information Technology.
