@@ -1,4 +1,4 @@
-# Service Desk Operations & Project Management
+# Service Desk Operations & Project Cordination
 
 This section documents my foundation in IT operations, service desk practices, and project management concepts.
 
